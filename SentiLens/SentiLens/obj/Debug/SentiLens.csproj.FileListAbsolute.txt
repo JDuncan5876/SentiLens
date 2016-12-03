@@ -4,3 +4,5 @@ C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\bin\Debug\SentiLens.pd
 C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\obj\Debug\SentiLens.csprojResolveAssemblyReference.cache
 C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\obj\Debug\SentiLens.exe
 C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\obj\Debug\SentiLens.pdb
+C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\bin\Debug\Newtonsoft.Json.dll
+C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\bin\Debug\Newtonsoft.Json.xml
