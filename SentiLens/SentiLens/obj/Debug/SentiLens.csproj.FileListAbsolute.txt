@@ -1,0 +1,6 @@
+C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\bin\Debug\SentiLens.exe.config
+C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\bin\Debug\SentiLens.exe
+C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\bin\Debug\SentiLens.pdb
+C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\obj\Debug\SentiLens.csprojResolveAssemblyReference.cache
+C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\obj\Debug\SentiLens.exe
+C:\Users\coote_000\Holohack\SentiLens\SentiLens\SentiLens\obj\Debug\SentiLens.pdb
